@@ -16,7 +16,7 @@ public class maxSubarray {
                 }
             }
         }
-        System.out.println(STR."max sum = \{maxsum}");
+        System.out.println("max sum = "+maxsum);
     }
     public static void main(String[] args) {
         int[] numbers = {2,4,6,8,10};
