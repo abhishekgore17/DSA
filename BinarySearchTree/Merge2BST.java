@@ -1,7 +1,5 @@
 package BinarySearchTree;
 
-import GryphonTraning.ConvertBSTToBalancedBST;
-
 import java.util.ArrayList;
 
 public class Merge2BST {
